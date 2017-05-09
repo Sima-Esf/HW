@@ -1,0 +1,7 @@
+D:\C# Projects\3Layer1\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Projects\3Layer1\BL\bin\Debug\BL.dll
+D:\C# Projects\3Layer1\BL\bin\Debug\BL.pdb
+D:\C# Projects\3Layer1\BL\bin\Debug\DA.dll
+D:\C# Projects\3Layer1\BL\bin\Debug\DA.pdb
+D:\C# Projects\3Layer1\BL\obj\Debug\BL.dll
+D:\C# Projects\3Layer1\BL\obj\Debug\BL.pdb
